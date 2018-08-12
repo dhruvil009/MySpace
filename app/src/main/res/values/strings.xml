@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Instagram</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="notificationticker">Instagram</string>
+    <string name="notificationtitle">Instagram</string>
+    <string name="notificationtext">Your Profile has been Successfully Updated.</string>
+</resources>
